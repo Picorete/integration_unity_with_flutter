@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8454A3E8-CD6F-E229-B101-0AFF15D18447}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/rotObject.cs">
+    <Files>
+      <File FileName="Assets/FlutterUnityIntegration/Editor/XCodePostBuild.cs" Line="54" Column="1" />
+      <File FileName="Assets/FlutterUnityIntegration/Demo/GameManager.cs" />
+      <File FileName="Assets/FlutterUnityIntegration/Demo/SceneLoader.cs" />
+      <File FileName="Assets/FlutterUnityIntegration/UnityMessageManager.cs" />
+      <File FileName="Assets/FlutterUnityIntegration/Editor/Build.cs" />
+      <File FileName="Assets/FlutterUnityIntegration/link.xml" />
+      <File FileName="Assets/FlutterUnityIntegration/NativeAPI.cs" />
+      <File FileName="Assets/FlutterUnityIntegration/Editor/SweetShellHelper.cs" />
+      <File FileName="Assets/FlutterUnityIntegration/SingletonMonoBehaviour.cs" />
+      <File FileName="Assets/rotObject.cs" Line="21" Column="1" />
+      <File FileName="Assets/pinchZoom.cs" Line="23" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoApp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="075297f4-a108-4089-9d8e-403299a3b36f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
